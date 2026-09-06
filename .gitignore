@@ -19,6 +19,9 @@
 # misc
 .DS_Store
 *.pem
+.openai
+.openai/
+
 
 # debug
 npm-debug.log*
