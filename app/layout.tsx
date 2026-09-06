@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'PORIDHI — Experience Center',
-  description: 'Explore a connected 3D campus for engineering, knowledge and experimentation.',
+  title: 'PUKU Learning World — Poridhi',
+  description: 'Learn agentic software engineering by operating, breaking and recovering systems with Puku.',
 };
 
 export default function RootLayout({
